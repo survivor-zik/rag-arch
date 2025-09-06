@@ -1,1 +1,3 @@
-# rag-arch
+RAG Architechture
+
+![Screenshot](output.png)
