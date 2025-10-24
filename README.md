@@ -1,3 +1,9 @@
+# Architecture Diagram
+
+![Architecture](ai.png)
+
+
+
 # Agent Flow
 
 ![Screenshot](output.png)
